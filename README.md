@@ -24,6 +24,13 @@ source /opt/ros/kinetic/setup.bash
 catkin_make
 ```
 
+Because this is a fork, you might also have to go into your submodules and
+```
+git checkout master
+git pull
+git reset --hard
+```
+
 ### Running the ROSplane simulator
 
 Type the following into a terminal:
