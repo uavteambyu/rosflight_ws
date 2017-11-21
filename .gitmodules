@@ -1,12 +1,12 @@
 [submodule "src/rosflight"]
 	path = src/rosflight
-	url = https://github.com/rosflight/rosflight.git
+	url = https://github.com/uavteambyu/rosflight.git
 [submodule "src/rosflight_plugins"]
 	path = src/rosflight_plugins
-	url = https://github.com/byu-magicc/rosflight_plugins.git
+	url = https://github.com/uavteambyu/rosflight_plugins.git
 [submodule "src/rosplane"]
 	path = src/rosplane
-	url = https://github.com/byu-magicc/rosplane.git
+	url = https://github.com/uavteambyu/rosplane.git
 [submodule "src/ros_groundstation"]
 	path = src/ros_groundstation
 	url = https://github.com/goromal/ros_groundstation.git
