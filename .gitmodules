@@ -10,3 +10,6 @@
 [submodule "src/ros_groundstation"]
 	path = src/ros_groundstation
 	url = https://github.com/goromal/ros_groundstation.git
+[submodule "src/rosplane_plugins"]
+	path = src/rosplane_plugins
+	url = https://github.com/uavteambyu/rosplane_plugins.git
